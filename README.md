@@ -3,9 +3,9 @@
 ## Sheet Cheat VS Code
 [Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
-### Démo
+#### Démo
 
 ## Lien avec MassCode
 [MassCode](https://masscode.io/)
 
-### Démo
+#### Démo
